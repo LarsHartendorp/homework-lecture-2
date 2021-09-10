@@ -1,0 +1,3 @@
+o	student name: Lars Hartendorp
+o	student number: 690720
+o	student class: INF1C 
